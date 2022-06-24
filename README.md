@@ -9,7 +9,7 @@ I am excited to begin my career in technology where I can continuously learn and
 - 🌱 I’m currently building projects using JavaScript and Python
 - ❓ Previous projects built with HTML, CSS, JavaScript, Node.js, Express, Docker, React + Redux, Websockets, MongoDB Atlas, PostgreSQL
 
-<img src="https://github-readme-stats.vercel.app/api?username=yusra-tahir&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=yusra-tahir&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 ## Technical Skills
 
