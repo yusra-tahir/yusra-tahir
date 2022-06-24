@@ -11,7 +11,7 @@ I am excited to begin my career in technology where I can continuously learn and
 
 <img src="https://github-readme-stats.vercel.app/api?username=yusra-tahir&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-## My Skill Set  
+## Technologies Used
 <table><tr><td valign="top" width="50%">
 
 ### Frontend  
